@@ -1,36 +1,33 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🚀 Pemograman Berbasis Framework - Modifikasi Halaman Esai & Tentang Saya
 
-## Getting Started
+## 📌 Deskripsi
+Website ini merupakan portfolio pribadi yang telah dimodifikasi pada beberapa bagian agar lebih menarik dan informatif.  
+Perubahan yang dilakukan mencakup:
 
-First, run the development server:
+1. **Modifikasi Halaman "Proyek"**:
+   - Menampilkan daftar aplikasi dalam bentuk **Grid Layout**.
+   - Setiap apliasi memiliki **card-style** dengan shadow dan border radius.
+   - Tampilan responsif untuk ukuran layar kecil hingga besar.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+2. **Modifikasi Halaman "Esai"**:
+   - Menampilkan daftar artikel dalam bentuk **Grid Layout**.
+   - Setiap artikel memiliki **card-style** dengan shadow dan border radius.
+   - Tampilan responsif untuk ukuran layar kecil hingga besar.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+3. **Modifikasi Halaman "Tentang Saya"**:
+   - Menambahkan **foto profil**.
+   - Menambahkan **deskripsi singkat** tentang saya.
+   - Menambahkan **ikon media sosial** (GitHub, LinkedIn, Twitter) untuk koneksi lebih luas.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🎨 **Tampilan Halaman**
+### 🔹 **Halaman Esai** - Grid Proyek 📑  
+<img src="./screenshots/proyek.jpg" alt="Tampilan Halaman Proyek" width="700">
 
-## Learn More
+### 🔹 **Halaman Esai** - Grid Artikel 📑  
+<img src="./screenshots/esai.jpg" alt="Tampilan Halaman Esai" width="700">
 
-To learn more about Next.js, take a look at the following resources:
+### 🔹 **Halaman Tentang Saya** - Profil & Media Sosial 🧑‍💻  
+<img src="./screenshots/tentang-saya.jpg" alt="Tampilan Halaman Tentang Saya" width="700">
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
